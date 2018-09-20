@@ -1,0 +1,27 @@
+{
+  "name": "mean-angular2",
+  "version": "1.0.0",
+  "description": "\"# MEAN-ANGULAR2\" \r \"# MEAN-ANGULAR2\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankadarokar/MEAN-ANGULAR2.git"
+  },
+  "author": "priyanka darokar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankadarokar/MEAN-ANGULAR2/issues"
+  },
+  "homepage": "https://github.com/priyankadarokar/MEAN-ANGULAR2#readme",
+  "dependencies": {
+    "3": "^2.1.0",
+    "express": "^4.16.3",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.0"
+  }
+}
